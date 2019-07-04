@@ -15,6 +15,12 @@
         "code": "virtual",
         "name": "Virtual Sets",
         "position": 3,
-        "size": 0
+        "size": 11
+    },
+    {
+        "code": "shields",
+        "name": "Defensive Shields",
+        "position": 4,
+        "size": 1
     }
 ]
