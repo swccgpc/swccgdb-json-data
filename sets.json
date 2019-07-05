@@ -200,7 +200,7 @@
         "size": 4
     },
     {
-        "code": "vs00",
+        "code": "v00",
         "cycle_code": "virtual",
         "date_release": "2014-09-24",
         "name": "Virtual Card Set #0",
@@ -208,7 +208,7 @@
         "size": 125
     },
     {
-        "code": "vs01",
+        "code": "v01",
         "cycle_code": "virtual",
         "date_release": "2015-03-27",
         "name": "Virtual Card Set #1",
@@ -216,7 +216,7 @@
         "size": 41
     },
     {
-        "code": "vs02",
+        "code": "v02",
         "cycle_code": "virtual",
         "date_release": "2015-07-17",
         "name": "Virtual Card Set #2",
@@ -224,7 +224,7 @@
         "size": 15
     },
     {
-        "code": "vs03",
+        "code": "v03",
         "cycle_code": "virtual",
         "date_release": "2015-12-04",
         "name": "Virtual Card Set #3",
@@ -232,7 +232,7 @@
         "size": 35
     },
     {
-        "code": "vs04",
+        "code": "v04",
         "cycle_code": "virtual",
         "date_release": "2016-06-29",
         "name": "Virtual Card Set #4",
@@ -240,7 +240,7 @@
         "size": 59
     },
     {
-        "code": "vs05",
+        "code": "v05",
         "cycle_code": "virtual",
         "date_release": "2016-11-23",
         "name": "Virtual Card Set #5",
@@ -248,7 +248,7 @@
         "size": 24
     },
     {
-        "code": "vs06",
+        "code": "v06",
         "cycle_code": "virtual",
         "date_release": "2017-04-14",
         "name": "Virtual Card Set #6",
@@ -256,7 +256,7 @@
         "size": 14
     },
     {
-        "code": "vs07",
+        "code": "v07",
         "cycle_code": "virtual",
         "date_release": "2017-07-13",
         "name": "Virtual Card Set #7",
@@ -264,7 +264,7 @@
         "size": 29
     },
     {
-        "code": "vs08",
+        "code": "v08",
         "cycle_code": "virtual",
         "date_release": "2017-11-30",
         "name": "Virtual Card Set #8",
@@ -272,7 +272,7 @@
         "size": 59
     },
     {
-        "code": "vs09",
+        "code": "v09",
         "cycle_code": "virtual",
         "date_release": "2018-07-06",
         "name": "Virtual Card Set #9",
@@ -280,7 +280,7 @@
         "size": 50
     },
     {
-        "code": "vs10",
+        "code": "v10",
         "cycle_code": "virtual",
         "date_release": "2019-01-08",
         "name": "Virtual Card Set #1",

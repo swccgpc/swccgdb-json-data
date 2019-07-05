@@ -76,6 +76,10 @@
      "name":"Jedi Master"
   },
   {
+     "code":"dark-jedi-master-first-order",
+     "name":"Dark Jedi Master/First Order"
+  },
+  {
      "code":"dark-jedi-master-imperial",
      "name":"Dark Jedi Master/Imperial"
   },
