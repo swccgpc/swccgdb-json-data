@@ -62,7 +62,7 @@ foreach ($set as $key => $value) {
       if($setName == 'ref3') { $setName = 'ReflectionsIII'; }
       $side = upperCase($set[$key]['side_code']);
       $name = cleanCardName($set[$key]['name']);
-      $set[$key][$prop] = "{$setName}-{$side}/large/{$name}.gif";
+      $set[$key][$prop] = "{$setName}-{$side}/{$name}.gif";
     }
 
     if ($prop == 'has_errata') {
